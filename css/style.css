@@ -259,10 +259,14 @@ h2 {
 .about-me-section,
 .connect-section,
 .contact-section {
-    padding: 4rem 0;
+    padding: 2rem 0;
     background: transparent;
 }
 
+.connect-section {
+    padding: 1rem 0;
+    background: transparent;
+}
 /* Education Section */
 .education-item {
     background: rgba(255, 255, 255, 0.1);
@@ -420,7 +424,7 @@ h2 {
 .social-links {
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: 3rem;
     flex-wrap: wrap;
 }
 
